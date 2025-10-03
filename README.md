@@ -1,6 +1,7 @@
 ## To Do List App
 
 A simple and efficient To-Do List application for managing daily tasks, built with JavaScript, CSS, and HTML.
+
 It can also be found on my personal website: https://mihneastefan.info/ToDo/todo.html
 
 ## About
