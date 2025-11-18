@@ -11,17 +11,16 @@ document.addEventListener("DOMContentLoaded", () => {
     if (taskText !== "") {
       const listItem = document.createElement("li");
 
-      // Create checkbox
+      // checkbox
       const checkbox = document.createElement("input");
       checkbox.type = "checkbox";
       checkbox.className = "todo-checkbox";
       
-      // Create label for the text
+      //  label for the text
       const label = document.createElement("span");
       label.textContent = taskText;
       label.className = "todo-label";
 
-      // Add event to checkbox to line-through text
       checkbox.addEventListener("change", () => {
         if (checkbox.checked) {
           label.classList.add("completed");
