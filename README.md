@@ -2,7 +2,7 @@
 
 A simple and efficient To-Do List application for managing daily tasks, built with JavaScript, CSS, and HTML.
 
-It can also be found on my personal website: [https://mihneastefan.info/ToDo/todo.html](https://mihnea.online/ToDo/todo.html)
+It can also be found on my personal website: https://mihnea.online/ToDo/todo.html
 
 ## About
 
